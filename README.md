@@ -10,3 +10,7 @@ Even More NBS files!
 >https://github.com/nickg2/NBSsongs
 >
 >Some Chinese Dude also gave me some.
+
+---
+
+if you want to add songs make a pullrequest or use issues and link the source from where you got the NBS files from
